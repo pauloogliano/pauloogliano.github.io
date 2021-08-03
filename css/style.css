@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: -webkit-flex;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
+  flex-direction: column;
+
+  width: 100%;
+  height: 100vh;
+}
+
+/* .avatar {
+  border-radius: 50%;
+  border: 2px solid purple;
+  padding: 5px;
+} */
